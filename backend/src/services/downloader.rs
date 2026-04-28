@@ -42,6 +42,7 @@ pub fn stream_download(url: String, quality: Option<String>, pool: SqlitePool) -
             "--newline",
             "--no-colors",
             "--no-simulate",
+            "--trim-filenames", "100",
             "-f", format_arg,
         ];
         args.extend(merge_arg);
