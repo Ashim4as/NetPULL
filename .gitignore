@@ -1,0 +1,27 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Frontend
+frontend/dist/
+frontend/pkg/
+
+# Downloads
+downloads/
+*.mp4
+*.mkv
+*.webm
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
