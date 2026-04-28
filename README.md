@@ -1,4 +1,4 @@
-# 🟢 NetPULL
+# NetPULL
 
 **NetPULL** is a high-performance, full-stack video downloader built entirely in Rust. Designed with a sleek, hacker-inspired terminal aesthetic, it leverages `yt-dlp` under the hood to reliably extract and download media from YouTube, Instagram, and hundreds of other supported platforms.
 
